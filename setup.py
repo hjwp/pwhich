@@ -9,7 +9,7 @@ setup(
     author='Harry Percival',
     author_email='hjwp2@cantab.net',
     url='https://github.com/hjwp/pwhich',
-    download_url='https://github.com/hjwp/pwhich/raw/master/dist/pwhich-0.1.0.linux-x86_64.zip',
+    download_url='https://github.com/hjwp/pwhich/raw/master/dist/pwhich-0.1.0.zip',
     packages=[],
     scripts=['scripts/pwhich.py'],
     classifiers= [

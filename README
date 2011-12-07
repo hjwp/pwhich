@@ -9,6 +9,12 @@ So, for example::
     $ pwhich.py django
     /usr/lib/pymodules/python2.7/django
 
+Why is that useful, I hear you ask?  Well, if you've ever decided you needed to
+take a look at the source for a module, and found yourself scrabbling around
+trying to find exactly where it was installed  (now was it /usr/lib/pymodules?
+or /usr/lib/python2.7/site-packages? or /usr/local/lib/hadleys/hope? )...
+
+I think you'll agree a quick ``vim `pwhich.py` mymodule`` is a great convenience!
 
 
 Installation
